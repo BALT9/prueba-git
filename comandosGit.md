@@ -15,3 +15,7 @@ git remote add origin https://github.com/BALT9/prueba-git.git
 git add .
 git commit -m "comandos iniciales de git"
 git push origin master
+
+
+git pull origin master
+
